@@ -1,5 +1,5 @@
 # Voice Assistant (FRIDAY)
-Its Voise Assistant in Python. It can performe some daily basic tasks like followings :-
+Its Voice Assistant developed in Python. It can performe some daily basic tasks like followings :-
 
 <p align="center"><img src="Programme Images/Main.JPG" height=250px /></p>
 
